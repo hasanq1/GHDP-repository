@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GHDP//Kickoff//EN
+BEGIN:VEVENT
+UID:ghdp-kickoff-20261210
+DTSTAMP:20261011T170000Z
+DTSTART:20261211T000000Z
+DTEND:20261211T030000Z
+SUMMARY:Greater Houston Defense Partnership - Proposed Kickoff
+LOCATION:Greater Houston - venue to be announced
+DESCRIPTION:Proposed kickoff. Venue and attendance subject to confirmation.
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
